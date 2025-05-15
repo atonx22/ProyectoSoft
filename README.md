@@ -2,10 +2,10 @@
 Proyecto 9no Semestre UG
 feature/Christian
 # Integrantes
-
--Albia Bazurto Christian
-feature/CrisOrtega
-Cristhina Ortega Jaramillo
-Maria Jose Zuniga cambio
-main
+Integrantes:
+Albia Bazurto
+Ortega Cristhina
+Zúñiga Maria Jose
+Pluas Joel
+Orellana Pierre
 main
