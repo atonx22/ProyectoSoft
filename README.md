@@ -24,3 +24,5 @@ main
 main
 
  main
+
+Modificaciones realizadas por Pierre Orellana y Joel Pluas 
